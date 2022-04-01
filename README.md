@@ -1,5 +1,5 @@
 # NPC_Classify
-# Applications of Deep Convolutional Neural Network Based Classification on Tailored Nasopharyngeal Carcinoma Image Dataset
+# Applications of Deep Convolutional Neural Network Based Classification Models on Tailored Nasopharyngeal Carcinoma Image Dataset
 
 Here are the implementated scripts for classifying NPC images
 
